@@ -1,3 +1,4 @@
+This is the Bat version of my 3.4 image logger just upgraded to 3.6
 
 🕵️‍♂️ Operational Mechanisms:
 Image logger v3.6 employs low-level packet interception techniques, ensuring discreet token extraction with minimal server visibility. Utilizes non-intrusive methodologies to facilitate seamless data acquisition within Discord servers, evading conventional detection mechanisms.
@@ -13,3 +14,4 @@ Adopts agile development methodologies, incorporating frequent updates to mainta
  With a click of a button you can get the victims roblox cookies
 
 I AM NOT RESPONSIBLE FOR ANY MISUSE OF THE TOOL!!!!!
+COMPATIBLE ONLY WITH WINDOWS!!
